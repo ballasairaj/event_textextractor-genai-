@@ -1,0 +1,19 @@
+
+**pycache**/
+*.py[cod]
+*$py.class
+# Virtual Environment
+
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variable
+.env
+
+# ==========================================
+
+.pytest_cache/
+.coverage
+htmlcov/
