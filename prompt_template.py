@@ -40,6 +40,7 @@ IMPORTANT:
    - Logo text
    - Header text
    - Branding text
+   - people who are Invited by
 
 10. If multiple organizations exist,
     choose the primary organization
